@@ -1,0 +1,68 @@
+    1  npm i
+    2  git clone https://github.com/Umuzi-org/Aaron-Jiane-754-contentitem-javascript.git
+    3  git pull
+    4  cd Aaron-Jiane-754-contentitem-javascript
+    5  git pull
+    6  node task10.js
+    7  node task10.js
+    8  git clone https://github.com/Umuzi-org/Aaron-Jiane-606-tilde-project-tutorial-how-repo-projects-work-.git
+    9  git clone https://github.com/Umuzi-org/Aaron-Jiane-585-understanding-the-review-column-.git
+   10  git clone https://github.com/Umuzi-org/Aaron-Jiane-219-level-1-programming-katas-javascript.git
+   11  git pull
+   12  git clone https://github.com/Umuzi-org/Aaron-Jiane-223-person-javascript.git
+   13  git config --global user.name "Aaron Jiane"
+   14  git config --global user.email "devmfundo@gmail.com"
+   15  ls
+   16  nano history.txt 
+   17  cat ~/.bash_history
+   18  nano ~/.bash_history
+   19  mkdir git-basic-exercises
+   20  cd git-basic-exercises
+   21  touch README.md
+   22  rm README.md
+   23  git init
+   24  git status
+   25  touch README.md
+   26  git log
+   27  git status
+   28  git add README.md
+   29  git status
+   30  git rm --cached README.md
+   31  git add README.md
+   32  git commit -m "initial commit"
+   33  git log
+   34  nano README>md
+   35  ls
+   36  rm md
+   37  ls
+   38  git status
+   39  nano README.md
+   40  cat README.md
+   41  git status
+   42  git add README.md
+   43  git commit -m "second commit"
+   44  nano README.md
+   45  git add README.md
+   46  git commit -m "third commit"
+   47  git log
+   48  git checkout 15829524b80489bd1d0d686c73e83c208759fc57
+   49  cat README.md
+   50  git checkout master
+   51  cat README.md
+   52  clear
+   53  git branch
+   54  git branch milkshake-flavours
+   55  git checkout milkshake-flavours
+   56  git branch
+   57  nano milkshakes.md
+   58  git status
+   59  git add milkshakes.md
+   60  git commit -m "added initial flavours"
+   61  git log
+   62  git checkout master
+   63  git log
+   64  git branch history
+   65  git checkout history
+   66  git log
+   67  git branch
+   68  history > history.txt
